@@ -2,7 +2,7 @@
 
 Just 
 
-curl -s --compressed "https://zairullahdev.github.io/termux/KEY.gpg" | sudo apt-key add -
+curl -s --compressed "https://zairullahdev.github.io/termux/KEY.gpg" | apt-key add -
 
 curl -s --compressed -o /etc/apt/sources.list.d/enderrepo.list "https://zairullahdev.github.io/termux/enderrepo.list"
 
