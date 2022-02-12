@@ -1,8 +1,8 @@
 # termux-repo
 
-Just 
+Just
 
-curl -s --compressed "https://zairullahdev.github.io/termux/KEY.gpg" | apt-key add -
+Download key from The repo
 
 curl -s --compressed -o /etc/apt/sources.list.d/enderrepo.list "https://zairullahdev.github.io/termux/enderrepo.list"
 
