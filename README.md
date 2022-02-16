@@ -1,4 +1,4 @@
-# termux-repo
+# Ubuntu repository
 
 Just
 
