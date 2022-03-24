@@ -1,0 +1,13 @@
+Package: bruh-tools
+Version: 0.0.1
+Architecture: all
+Maintainer: @zairullahdev
+Depends: python, mpv-x
+Filename: ./bruhtools.deb
+Size: 1456
+MD5sum: 6a76d7e763b303cd1034a72033f80126
+SHA1: 6aee8b2d8bb6225049ee868a391a9ef0b78787b3
+SHA256: 4f52e99ffb125d8a3093eda05c34045620f02b7b34f8dae888861f1c95ce6011
+Description: X11 Tools that would can play youtube and Check root, Simple.
+Name: Bruh Tools
+
